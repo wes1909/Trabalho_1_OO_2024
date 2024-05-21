@@ -12,10 +12,10 @@ public class Exercício2 {
         System.out.print("Informe a distância percorrida: (km) ");
             km = scan.nextInt();
 
-        System.out.print("Agora informe o total de combustível usado: (Litros) ");
-            gas = scan.nextInt();
+       System.out.print("Agora informe o total de combustível usado: (Litros) ");
+                gas = scan.nextInt();
 
-                 media = km/gas;
+                media = km/gas;
 
         System.out.println("**O consumo médio de seu veículo é de "+media+ " km/L**");
 
