@@ -1,3 +1,7 @@
+/*1.	Faça um programa em Java que
+leia um número inteiro e exiba tanto seu sucessor quanto seu antecessor.
+ */
+
 import java.util.Scanner;
 
 public class Exercício1 {

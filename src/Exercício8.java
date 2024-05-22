@@ -1,3 +1,5 @@
+/*8.	Faça um método que leia 4 valores inteiros e exiba o maior e o menor deles.*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;

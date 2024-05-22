@@ -1,3 +1,7 @@
+/*7.	Escreva um programa em Java que pergunte quanto o funcionário ganha por hora
+e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+ */
+
 import java.util.Scanner;
 
 public class Exercício7 {

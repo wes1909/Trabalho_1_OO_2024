@@ -1,3 +1,7 @@
+/*3.	Faça um programa em Java que leia 2 números
+e exiba qual deles é o maior ou então informe que são iguais.
+ */
+
 import java.util.Scanner;
 
 public class Exercício3 {

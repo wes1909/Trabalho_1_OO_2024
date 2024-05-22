@@ -1,3 +1,8 @@
+/*5.	Programe um aplicativo em Java que leia um nome e uma idade.
+Se a idade for menor que 16, deve exibir o nome juntamente com a mensagem “Não pode votar!”,
+caso contrário, deve exibir o nome com a mensagem “Apto a votar!”.
+ */
+
 import java.util.Scanner;
 
 public class Exercício5 {

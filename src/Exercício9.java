@@ -1,3 +1,9 @@
+/*9.	Faça um programa em Java que leia o nome e 3 notas de um aluno.
+Se obtiver média maior que 7 exibir a mensagem de aprovado,
+se ficar entre 5 e 7, exibir a mensagem em exame,
+e se for abaixo disso, exibir reprovado. Lembrando que terá que exibir o nome do aluno também.
+ */
+
 import java.util.Scanner;
 
 public class Exercício9 {

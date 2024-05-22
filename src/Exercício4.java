@@ -1,3 +1,5 @@
+/*4.	Crie um programa em Java que imprima o sexo de uma pessoa utilizando como valores de entrada M ou F.*/
+
 import java.util.Scanner;
 
 public class Exercício4 {

@@ -1,3 +1,8 @@
+/*2.	Escreva um programa em Java que leia uma distância inteira percorrida (em quilômetros),
+bem como o total de combustível gasto (em litros)
+e informe a média de consumo do veículo por km.
+ */
+
 import java.util.Scanner;
 
 public class Exercício2 {
